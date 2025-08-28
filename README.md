@@ -46,6 +46,7 @@ pip install -r requirements.txt
 ```
 MONGO_URI=mongodb://localhost:27017/colisdb (just an example)
 PORT=5000
+JWT_SECRET_KEY=abcd
 ```
 
 ### 5. Run app
